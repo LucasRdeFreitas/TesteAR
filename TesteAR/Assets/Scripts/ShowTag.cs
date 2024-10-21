@@ -20,7 +20,7 @@ public class ShowTag : MonoBehaviour
         if (distance < 400)
         {
             transform.LookAt(cam.transform);
-            transform.localScale = new Vector3(-30.0f, 30.0f, 30.0f);
+            transform.localScale = new Vector3(-40.0f, 40.0f, 40.0f);
         }
         else
         {
