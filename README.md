@@ -11,7 +11,7 @@ Após finalizar, fiz o bake da animação e exportei o arquivo em formato FBX.
 
 No Unity, configurei o Vuforia, importei os pacotes necessários, e adicionei a AR Camera e meu Target. Em seguida, importei o modelo e configurei os materiais e as animações.
 
-Criei também um script que exibe um quadro com informações sobre o Sol, baseado na distância da câmera em relação a ele.
+Criei também um script que exibe um quadro com informações sobre o Sol, baseado na distância da câmera em relação a ele e sempre seguindo a direção dela.
 
 Como não tenho um dispositivo Android disponível, precisei dessa alternativa de interação para usar uma webcam. Embora tenha pesquisado e tentado algumas compilações para iPhone, descobri que é necessário um Mac para finalizar a tarefa.
 
