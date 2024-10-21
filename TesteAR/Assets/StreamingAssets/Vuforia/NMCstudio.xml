@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="venus" size="150.000000 150.000000" />
+    <ImageTarget name="mercurio" size="150.000000 150.000000" />
+    <ImageTarget name="terra" size="150.000000 150.000000" />
     <ImageTarget name="qrcode" size="150.000000 150.000000" />
   </Tracking>
 </QCARConfig>
